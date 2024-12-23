@@ -13,3 +13,6 @@ Author - Kanak
 7. Pascaline was built in 1642 by the French physicist Blaise Pascal when he was 19 years old
 8. Invented by Leibniz in 1673, it was used for three centuries until the advent of the electronic calculator in the mid-1970s
 9. The Jacquard system was developed in 1804–05 by Joseph-Marie Jacquard of France, and it soon spread elsewhere. His system improved on the punched-card technology of Jacques de Vaucanson's loom (1745)
+10. The analytical engine was a proposed digital mechanical general-purpose computer designed by English mathematician and computer pioneer Charles Babbage. It was first described in 1837 as the successor to Babbage's Difference Engine, which was a design for a simpler mechanical calculator.
+11. Census was built in 1889 - Herman Hollerith's tabulator consisted of electrically-operated components that captured and processed census data by "reading" holes on paper punch cards
+12. Mark I was designed in 1937 and built in 1944 by Harvard graduate student Howard H. Aiken to solve advanced mathematical physics problems encountered in his research
